@@ -195,10 +195,3 @@ If you are new to Docker and reading this repo to learn, follow this order:
 5. **[`backend/schema/`](backend/schema/explanation.md)** and **[`mysql/scripts/`](mysql/scripts/explanation.md)** — how the database schema is defined and auto-loaded.
 
 By the end, you should be able to recognize the same patterns in any 3-tier dockerized project.
-
----
-
-## Credits
-
-Original sample app: **joindevops** (DevOps training).
-This repository adds end-to-end documentation, line-by-line Dockerfile explanations, and an AWS deployment flow.
